@@ -1,6 +1,9 @@
-# rebase_test1
+# rebase_test2
 a
 b
 c
-d
+c
 e
+f
+g
+h
